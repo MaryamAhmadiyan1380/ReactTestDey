@@ -1,0 +1,41 @@
+/* .navlink{
+    margin-right:0 ;
+}
+.navlink :active{
+    width: 100px;
+    background-color: red;
+} */
+
+/* .nav :focus{
+    background-color: blue;
+} */
+/* .nav :active{
+    background-color: blue;
+} */
+/* .nav :link{
+    background-color: blue;
+} */
+/* .nav :visited{
+    background-color: blue;
+} */
+/* .nav :focus{
+    background-color: blue;
+} */
+/* Nav Nav.Link :focus{
+    background-color: brown;
+} */
+/* #basic-navbar-nav :focus{
+    background-color: brown;
+} */
+/* #basic-navbar-nav :focus::before{
+    background-color: brown;
+} */
+
+.nav .active-link {
+    background-color: blue;
+    color: white !important;
+    border-radius: 5px;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+  }
+  
